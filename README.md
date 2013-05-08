@@ -2,12 +2,13 @@ popcontext
 ==========
 
 Measure and correct cell population context effects in high-content screening.
+Developed for CellProfiler v1 (in MATLAB).
 
 This project calculates the population context-corrected measurement as
 described in Snijder & Sacher, et al, in revision, 2011, and normalizes for 
 potential effects.
 
-Methods are implemented as CellpRofiller modules.
+Methods are implemented as CellProfiller modules.
 
 http://www.cellprofiler.org
 
